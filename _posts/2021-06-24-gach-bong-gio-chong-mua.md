@@ -25,7 +25,7 @@ Gạch bông gió chống mưa xi măng
 
 Kích thước bông gió chắn mưa xi măng: 190x190x65 + chóp 45mm
 
-Kích thước bông gió chắn mưa đất nung: 200x200x60 +
+Kích thước bông gió chắn mưa đất nung: 200x200x60 + chóp 40mm
 
 ### Vì sao nên sử dụng sản phẩm gạch bông gió ?
 
