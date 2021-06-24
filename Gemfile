@@ -40,4 +40,5 @@ group :jekyll_plugins do
   gem "jekyll-tagging-related_posts"
   gem "jekyll-toc"
   gem "jekyll-news-sitemap"
+  gem "minimal-mistakes-jekyll"
 end
