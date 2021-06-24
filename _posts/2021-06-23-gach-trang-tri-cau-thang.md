@@ -1,13 +1,15 @@
 ---
 title: Gạch bông trang trí cầu thang
-layout: post
-date: '2021-06-16 13:58:35'
+layout: single
+date: '2021-06-24 13:58:35'
 tags:
 - gạch
 - bông
 - gachbong
 - gạchbông
 - cầuthang
+comments: true
+share: true
 ---
 
 ### Gạch cầu thang đối với nhu cầu trang trí
