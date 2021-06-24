@@ -34,6 +34,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - link-rewriter-filter
 
 # Exclude from processing.
 # The following items will not be processed, by default.
