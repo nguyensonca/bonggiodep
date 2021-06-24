@@ -1,6 +1,8 @@
 ---
 title: Gạch bông gió trang trí là gì ?
 layout: post
+categories:
+- gachbonggio
 ---
 
 ### Gạch bông gió trang trí là gì ?
