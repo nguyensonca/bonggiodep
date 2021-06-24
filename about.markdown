@@ -4,15 +4,15 @@ layout: page
 permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).
+Chúng tôi là những người yêu văn hóa Việt & muốn bảo tồn gìn giữ văn hóa Việt.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Gạch bông trong những thập niên trước 1990 được xem như một nét văn hóa Việt Nam trong từng thiết kế công trình. Đi qua những thăng trầm của thời gian, cùng với sự phát triển của gạch men sản xuất hàng loạt theo phương pháp công nghiệp. Gạch bông đã bị lãng quên dần theo năm tháng... Đó chính là những trăn trở của chúng tôi, những người yêu kiến trúc Việt Nam & yêu nền văn hóa đất nước này.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Gầy dựng lại một vật liệu đã bị lãng quên.\
+Chúng tôi tự cho mình một nghĩa vụ phải phát triển trở lại sự hưng thịnh một thời của gạch bông. Với những công nghệ mang tính đột phá trong việc bảo quản & bảo dưỡng [gạch bông Việt Nam](https://cementtile.vn). Chúng tôi đã khắc phục được những nhược điểm mà trước đây chưa xử lý được.\
+Chúng tôi có sự tư vấn -- hỗ trợ từ nhiều chuyên gia đầu ngành Vật Liệu Xây Dựng về các hóa chất xử lý bề mặt, về quy trình sản xuất, nghiên cứu & ứng dụng.\
+Tự hào là đơn vị ứng dụng công nghệ cao từ sản xuất đến kinh doanh.\
+Với chúng tôi, quy trình sản xuất luôn được ứng dụng khoa học công nghệ từ khâu chọn vật liệu đến khâu hoàn thiện. Cùng sự sáng tạo của đôi bàn tay của các nghệ nhân gạch bông, chúng tôi có các công thức độc quyền để đem lại một sản phẩm tốt nhất.\
+Quy trình mua bán & quản lý ứng dụng các phương pháp công nghệ thông tin hiện đại, chúng tôi tự hào là nhà sản xuất & cung ứng sản phẩm với thời gian nhanh nhất.\
+Chúng tôi có hệ thống phân phối & giao hàng trên khắp Việt Nam.\
+Chúng tôi có đội ngũ phục vụ khách hàng từ khâu tư vấn -- thiết kế -- sản xuất -- thi công -- bảo dưỡng.
