@@ -1,6 +1,6 @@
 ---
 title: Lan can xây bằng gạch bông gió đẹp
-layout: post
+layout: home
 date: '2021-06-23 12:43:30'
 tags:
 - lancan
