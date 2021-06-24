@@ -1,11 +1,12 @@
 ---
 title: Giới thiệu
-layout: page
+layout: posts
 tags:
 - gạchbônggió
 - gạch
 - bông
 date: '2021-06-24 12:24:34'
+permalink: gioi-thieu-blog
 ---
 
 Gạch bông là gì ?
