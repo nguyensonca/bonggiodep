@@ -37,4 +37,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "link-rewriter-filter"
+  gem "jekyll-tagging-related_posts"
 end

@@ -35,6 +35,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - link-rewriter-filter
+  - jekyll-tagging-related_posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
