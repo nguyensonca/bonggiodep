@@ -1,12 +1,13 @@
 ---
 title: Gạch bông gió chống hắt mưa
-layout: post
+layout: single
 date: '2021-06-23 12:19:31'
 tags:
 - gạch
 - bông
 - gió
 - gạchbônggió
+share: true
 ---
 
 ### [Gạch bông gió chống mưa](https://cementtile.vn/vi/gach-bong-gio-chong-mua-chan-mua-thoang-gio/) là gì ?
