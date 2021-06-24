@@ -36,6 +36,8 @@ plugins:
   - jekyll-sitemap
   - link-rewriter-filter
   - jekyll-tagging-related_posts
+  - jekyll-toc
+  - jekyll-news-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
